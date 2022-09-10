@@ -1,0 +1,51 @@
+Notes
+static app/ simple app
+
+
+Header
+Nav Bar
+
+Side Bar  | Content
+
+
+Footer
+
+
+tags
+
+clode tags
+<p> </p>
+
+open tags
+<hr />
+<br />
+
+export 
+
+default
+import Header from './component/Header';
+
+
+name
+
+import {HeaderA,HeaderB} from './component/Header';
+
+
+
+Routing
+
+react-router
+
+
+react-router-dom
+
+npm i -s react-router-dom
+or
+npm install --save reavt-router-dom
+
+globally and locally
+
+
+
+paste this in terminal
+npm i -s react-router-dom
